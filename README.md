@@ -1,5 +1,6 @@
 # Project---Customised-Virtual-File-System-
 
+
 ### PLATFORM REQUIRED :   
 ```
 Windows Platform Or Linux Distributions.
@@ -15,10 +16,9 @@ Command Line Interface.
 ### TECHNOLOGY USED : 
 ```
 System Programming Using C.
-
-
-###Description
-
+```
+                                           ABOUT CUSTOMIZED VIRTUAL FILE SYSTEM
+```
 • This project provides all functionality to the user which is same as Linux File system.
 
 • As The Name Suggests Its Virtual Because I Maintain All The Records In Primary Storage (RAM).
@@ -35,4 +35,3 @@ system.
 • I Provide All Implementations Of Necessary System Calls And Commands Of File subsystem As : Open, Close, Read, Write, Lseek, Create, RM, LS, Stat, Fstat etc.
 
 • By Using This Project I Can Get Overview Of UFS (UNIX File System) On Any Platform.
-
